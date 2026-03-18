@@ -1,0 +1,40 @@
+Functions in C
+=================
+->Function is a building block of C program.
+
+Syntax
+=======
+
+returntype func_name(){
+//body of the function
+}
+
+All primitive datatypes can be a returntype including void.
+->Void returns nothing
+
+Types of Function
+==================
+1)Library Function
+2)User-Defined Function
+
+Classification of function
+===========================
+->Without returntype with arguments
+->Without returntype without arguments
+->With returntype with arguments
+->With returntype without arguments
+
+Cal by value and Call by reference
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+C Programming
+==============
+Why Programming?
+-----------------
+Computer understands only binary values
+->Binary Languages
+
+Addition
+==========
+1+2
+
+1=> 00000001
+2=> 00000010
++ =>1010
+
+Program
+=======
+=>Set of instructions given to the computer to perform specfic mathematical tasks.
+
+Compiler
+========
+=>Converts our source code into binary(obj) code
+
+C Library
+=========
+
+Features
+==========
+->It is a base for all programming languages.
+->32 keywords
+->Pointers-> Directly access the memory address
+
+Structure of C Program
+======================
+1)Documentation Section/Comment Section
+=======================================
+Single Line
+//Single line comment
+
+Multi Line
+===========
+/*---------
+-------------
+--------------
+--------------
+*/
+
+->Optional
+
+Link Section
+============
+#include<stdio.h>
+stdio - Standard Input/Output
+h->Header
+printf() - output function
+scanf() - input function
+
+#include<conio.h> 
+->Console i/o 
+->getch() ->It will hold the output screen
+->Its compulsory
+
+Definition Section
+===================
+#define PI 3.14
+#define MAX 200
+
+After link section
+
+->Optional
+
+Global declaration Section
+============================
+->It can access from anywhere
+->Optional
+
+Main Section
+============
+->It is the only execution part of the program
+->One program Contains only one main
+->Compulsory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
